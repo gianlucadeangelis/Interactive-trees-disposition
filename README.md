@@ -1,4 +1,4 @@
-# Interactive-trees-disposition
+# dynamic-trees-disposition
 This repository contains the individual project for the Information Visualization course (D3.js https://d3js.org/).<br>
 The drawing is composed by trees, each tree corresponds to a data-case described in the json data file.
 Each tree is represented by two roots (small rects), a trunk (rect), a crown (circle) and two fruits (squares).<br>
