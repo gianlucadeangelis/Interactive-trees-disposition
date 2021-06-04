@@ -1,0 +1,17 @@
+
+.axis, .values {
+    font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+    stroke-width: 10px;
+}
+
+.axis {
+  cursor: pointer;
+}
+

@@ -1,0 +1,12 @@
+[
+{"trunkHeight": 160, "crownArea": 5000, "fruitArea": 60, "rootHeight": 20}, 
+{"trunkHeight": 100, "crownArea": 10000, "fruitArea": 80, "rootHeight": 70},
+{"trunkHeight": 300, "crownArea": 4000, "fruitArea": 105, "rootHeight": 30},
+{"trunkHeight": 360, "crownArea": 8000, "fruitArea": 135, "rootHeight": 50},
+{"trunkHeight": 210, "crownArea": 9000, "fruitArea": 158, "rootHeight": 60},
+{"trunkHeight": 240, "crownArea": 3000, "fruitArea": 120, "rootHeight": 40},
+{"trunkHeight": 330, "crownArea": 4500, "fruitArea": 90, "rootHeight": 80},
+{"trunkHeight": 260, "crownArea": 6000, "fruitArea": 195, "rootHeight": 90},
+{"trunkHeight": 400, "crownArea": 7000, "fruitArea": 40, "rootHeight": 105}, 
+{"trunkHeight": 180, "crownArea": 1500, "fruitArea": 100, "rootHeight": 120}
+]
