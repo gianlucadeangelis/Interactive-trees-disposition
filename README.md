@@ -6,6 +6,8 @@ The only size of the roots (extracted from json) is the root height, whereas the
 The size of the trunks (extracted from json) is the trunk height, whereas the width is fixed.<br>
 The size of the crowns (extracted from json) is the crown area; to draw the crowns the radius (obtained from the area) is used.<br>
 The size of the fruits (extracted from json) is the fruit area; to draw the fruits the side of the square is calculated from the area.<br>
+There are also a label and the x axis; the label describes wich features was clicked namely the values of x coordinate (the y-axis is not required and is not necessary).<br>
+Default trees position:<br>
 ![picture](DefaultPosition.PNG)<br>
 Example of click on trunks height: <br>
 ![picture](AfterClicking.PNG)
