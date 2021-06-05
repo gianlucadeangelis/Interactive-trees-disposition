@@ -10,7 +10,8 @@ Each tree is represented by two roots (small rects), a trunk (rect), a crown (ci
 </ul>
 There are also a label and the x axis; the label describes wich features was clicked, namely the values of x coordinate (the y-axis is not required and is not necessary).<br>
 Default trees position:<br>
-![picture](DefaultPosition.PNG)<br>
+<img src="DefaultPosition.PNG">
+<br>
 Example of click on trunks height: <br>
 ![picture](AfterClicking.PNG)
 # Usage
