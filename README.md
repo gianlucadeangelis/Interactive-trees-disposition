@@ -13,7 +13,7 @@ Default trees position:<br>
 <img src="DefaultPosition.PNG">
 <br>
 Example of click on trunks height: <br>
-![picture](AfterClicking.PNG)
+<img src="AfterClicking.PNG">
 # Usage
 Open the folder that contains index.html and start a server using Python with the command python -m http.server 8080. 
 Open your browser on localhost:8080. 
