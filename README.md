@@ -12,7 +12,7 @@ There are also a label and the x axis; the label describes wich features was cli
 Default trees position:<br>
 <img src="DefaultPosition.PNG">
 <br>
-Example of click on trunks height: <br>
+Example of click on trunks (x coordinate values = trunks height values): <br>
 <img src="AfterClicking.PNG">
 # Usage
 Open the folder that contains index.html and start a server using Python with the command python -m http.server 8080. 
